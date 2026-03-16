@@ -1,6 +1,4 @@
-import requests
-
-print("Scanning Digital Marketing Jobs...")
+print("🚀 AI Job Hunter Agent Started")
 
 jobs = [
     "SEO Executive - Remote",
@@ -10,3 +8,5 @@ jobs = [
 
 for job in jobs:
     print("Found Job:", job)
+
+print("✅ Agent completed successfully")
